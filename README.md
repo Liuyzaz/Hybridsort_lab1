@@ -26,9 +26,6 @@ This project is a lab group project under NTU course SC2001 ALGORITHM DESIGN AND
   - Compared key comparisons and CPU times.
   - Utilized the optimal \( S \) obtained from performance analysis.
 
----
-
-## Technologies
 - **Programming Language**: Python
 - **Libraries**: NumPy, Matplotlib (for data generation and visualization)
 
